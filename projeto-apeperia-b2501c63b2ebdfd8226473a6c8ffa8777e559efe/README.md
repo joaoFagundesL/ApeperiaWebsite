@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Apeperia project
+Project made during a responsive layout course
